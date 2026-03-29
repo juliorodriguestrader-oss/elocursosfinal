@@ -1,0 +1,7 @@
+{
+  "name": "Edublink Academy",
+  "description": "A premium online learning platform for advanced UI design and creative direction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
